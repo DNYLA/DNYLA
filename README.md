@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Owner Of Lab Maker](https://github.com/LabMaker)
+[Owner Of Melodiy](https://github.com/DNYLA/Melodiy)
 
 [![Visits Badge](https://badges.pufler.dev/visits/DanyaalA/DanyaalA)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/years/DanyaalA)](https://badges.pufler.dev)
